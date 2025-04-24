@@ -1,0 +1,6 @@
+<!-- public/favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#1e293b"/>
+  <path fill="#3b82f6" d="M24 10c-5 0-9 4-9 9v1H13c-1.1 0-2 .9-2 2v6c0 1.1.9 2 2 2h2v1c0 5 4 9 9 9s9-4 9-9v-1h2c1.1 0 2-.9 2-2v-6c0-1.1-.9-2-2-2h-2v-1c0-5-4-9-9-9Zm0 4a5 5 0 0 1 5 5v14a5 5 0 0 1-10 0V19a5 5 0 0 1 5-5Z"/>
+  <circle cx="24" cy="24" r="2" fill="#fff"/>
+</svg>
